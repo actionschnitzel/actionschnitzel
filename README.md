@@ -5,7 +5,7 @@ I'm just a guy who loves to take things apart, put them back together and then s
     
         
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)        
-I always keep an eye on the latest Raspberry Pi developments. To keep the desktop area up to date, I get the latest hardware and software add-ons. This is good for PiGro, because you always get drivers for DeskPi Pro or Argon One in the shop area.    
+As for the Pi, I always try to be up to date. Discovering new software and hardware is a lot of fun and also benefits PiGro.
     
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)        
 Tryin' to push tkinter to the limit :rage2:  
