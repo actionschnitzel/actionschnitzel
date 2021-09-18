@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+I'm just a guy who loves to take things apart, put them back together and then see if it still works. My focus is on frontend software for the Raspberry Pi.     
+    
+        
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)        
 I always keep an eye on the latest Raspberry Pi developments. To keep the desktop area up to date, I get the latest hardware and software add-ons. This is good for PiGro, because you always get drivers for DeskPi Pro or Argon One in the shop area.    
     
