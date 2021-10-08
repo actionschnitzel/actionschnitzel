@@ -16,14 +16,11 @@ PiGro (Xtrmo) is my heart project. I still have a lot of ideas and will continue
 [PiGro Xtrmo](https://github.com/actionschnitzel/PiGro-Aid-)    
 ![GUI](https://github.com/actionschnitzel/actionschnitzel/blob/main/Logotab.png)     
 [Pacchetti Di Lamponi](https://github.com/actionschnitzel/PDL)    
-![GUI](https://github.com/actionschnitzel/actionschnitzel/blob/main/Logotab.png) 
-
-    
-
-
+![GUI](https://github.com/actionschnitzel/actionschnitzel/blob/main/pdl.png) 
     
         
-        
+            
+            
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)    
 I've always been “the go to guy” when it comes to IT. When I was 10, I inspected my family's first office computer, scoured the Windows folder and read all .INI files (no kidding). In 2003 I had enough of Windows and bought the “Easy Linux Magazin” with a SuseLinux 9.0 CD. Good Guy UT2003 had a Linux installer and I had everything I need xD. After a while, I came to Linux Mint via Ubuntu and stayed. In 2020 Corona came and I decided to push my IT knowledge even further (there was nothing else to do). So I bought a Raspberry Pi and started building.
 
