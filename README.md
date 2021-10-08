@@ -13,9 +13,11 @@ Tryin' to push tkinter to the limit :rage2:
 PiGro (Xtrmo) is my heart project. I still have a lot of ideas and will continue to refine them. I've been thinking about bringing out a Debian version for a long time. The biggest problem (which others have too) is that everything is aimed at the USER PI, which means a lot of work to get it running on other distros. … Sometime!!
 
 ### My Projects
-
 [PiGro Xtrmo](https://github.com/actionschnitzel/PiGro-Aid-)    
+![GUI](https://github.com/actionschnitzel/actionschnitzel/blob/main/Logotab.png)     
 [Pacchetti Di Lamponi](https://github.com/actionschnitzel/PDL)    
+![GUI](https://github.com/actionschnitzel/actionschnitzel/blob/main/Logotab.png) 
+
     
 
 
