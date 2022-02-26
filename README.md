@@ -7,7 +7,7 @@ I'm just a guy who loves to take things apart, put them back together and then s
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)        
 As for the Pi, I always try to be up to date. Discovering new software and hardware is a lot of fun and also benefits PiGro.    
 There are currently 9 Raspberry Pis running in my house.     
-Yes, they all have a real purpose xD.     
+Yes, they all have a real purpose :sweat_smile:     
 I use them for Nextcloud server, as a macro pad, as a retro gameing handheld, crypro miner, crypto trading bot, and of course for programming.    
 At the moment I'm building a robot from scratch.     
     
