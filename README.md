@@ -20,8 +20,7 @@ PiGro (Xtrmo) is my heart project. I still have a lot of ideas and will continue
 ### My Projects
 [PiGro Xtrmo](https://github.com/actionschnitzel/PiGro-Aid-)    
 ![GUI](https://github.com/actionschnitzel/actionschnitzel/blob/main/Logotab.png)     
-[Pacchetti Di Lamponi](https://github.com/actionschnitzel/PDL)    
-![GUI](https://github.com/actionschnitzel/actionschnitzel/blob/main/pdl.png) 
+
     
         
             
