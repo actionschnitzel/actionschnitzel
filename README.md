@@ -1,5 +1,3 @@
-![GUI](https://github.com/actionschnitzel/tingsandstuff/blob/main/piggo_porn.png)
-
 
 I'm just a guy who loves to take things apart, put them back together and then see if it still works. My focus is on frontend software for the Raspberry Pi.     
     
