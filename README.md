@@ -1,43 +1,28 @@
+# Linux Developer | Open Source Enthusiast | Tech Writer
 
-I'm just a guy who loves to take things apart, put them back together and then see if it still works. My focus is on frontend software for the Raspberry Pi.     
-    
-        
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)        
-As for the Pi, I always try to be up to date. Discovering new software and hardware is a lot of fun and also benefits PiGro.    
-There are currently 9 Raspberry Pis running in my house.     
-Yes, they all have a real purpose :sweat_smile:     
-I use them for Nextcloud server, as a macro pad, as a retro gameing handheld, crypro miner, crypto trading bot, and of course for programming.    
-At the moment I'm building a robot from scratch.     
-    
-    
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)        
-Tryin' to push tkinter to the limit :rage2:  
-    
-PiGro (Xtrmo) is my heart project. I still have a lot of ideas and will continue to refine them. I've been thinking about bringing out a Debian version for a long time.
+I build software for Linux because I believe in open source, user freedom and the idea that technology should be accessible to everyone.
 
-### My Projects
-[PiGro - Just Click It!](https://github.com/actionschnitzel/PiGro-Aid-)    
-![GUI](https://github.com/actionschnitzel/actionschnitzel/blob/main/Logotab.png)     
+My current focus is native Linux desktop development using **GTK4 and libadwaita**. I'm interested in creating applications that integrate well into the Linux desktop ecosystem while keeping things simple and user-friendly. :rage2:
 
-    
-        
-            
-            
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)    
-I've always been “the go to guy” when it comes to IT. When I was 10, I inspected my family's first office computer, scoured the Windows folder and read all .INI files (no kidding). In 2003 I had enough of Windows and bought the “Easy Linux Magazin” with a SuseLinux 9.0 CD. Good Guy UT2003 had a Linux installer and I had everything I need xD. After a while, I came to Linux Mint via Ubuntu and stayed.
+### Areas of interest
 
+- **Linux desktop application development**
+- **GTK4 & libadwaita**
+- **Python**
+- **Open Source Software**
+- **Raspberry Pi & embedded projects**
+- **Linux distributions and desktop environments**
 
-<!--
-**actionschnitzel/actionschnitzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects & Contributions
 
-Here are some ideas to get you started:
+- **GuideOS** – Working on the development of GuideOS. :skull:
+- **PiGro** – My long-running Raspberry Pi project and personal heart project. :heart:
+- **ActionGrooveNC** – A continuation of NextGroove, bringing music management and playback to the Nextcloud ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Beyond coding
+
+I'm also a tech writer and moderator at **LinuxGuides**, where I help users, share knowledge and contribute to the German-speaking Linux community.
+
+I've been using Linux since 2003. What started with a SUSE Linux 9.0 CD and Unreal Tournament 2003 eventually turned into a long-term passion for Linux and open source.
+
+Always learning. Always building. Always breaking something along the way. :sweat_smile:
